@@ -1,4 +1,4 @@
-# Nombre
+#   Análisis de datos de diabetes
 Analisis de datos y generación de modelos de machine learning para la clasificación de casos de diabetes dado un conjunto de features regnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,
 
 ## Descripción
